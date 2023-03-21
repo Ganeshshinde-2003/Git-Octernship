@@ -12,4 +12,20 @@ To run this application, you will need the following software installed on your 
 - npm
 
 ## Installation
-Clone this repository using the following command:
+1. Clone this repository using the following command:
+
+        https://github.com/Ganeshshinde-2003/Git-Octernship.git
+        
+2. Navigate to the project directory:
+
+        cd Git-Octernship
+        
+3. Install the required dependencies:   
+
+        npm install
+
+
+## Running the Application
+To run the application, use the following command:
+
+        npm start
