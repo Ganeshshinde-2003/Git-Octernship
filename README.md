@@ -29,3 +29,24 @@ To run this application, you will need the following software installed on your 
 To run the application, use the following command:
 
         npm start
+
+This will start the application on http://localhost:3000.
+
+## Usage
+To use the application, follow these steps:
+
+- Enter the input string in the input field on the home screen.
+- Click the "Submit" button.
+- The application will redirect you to the next screen.
+- Click the "Delete Duplicate Characters" button to remove the duplicate characters from the input string.
+- The result will be displayed on the screen.
+
+
+## Contributing
+If you would like to contribute to this project, please follow these steps:
+
+- Fork this repository.
+- Create a new branch with your changes: git checkout -b my-branch.
+- Commit your changes: git commit -m "Add my feature".
+- sh to the branch: git push origin my-branch.
+- eate a pull request.
