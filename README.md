@@ -48,5 +48,5 @@ If you would like to contribute to this project, please follow these steps:
 - Fork this repository.
 - Create a new branch with your changes: git checkout -b my-branch.
 - Commit your changes: git commit -m "Add my feature".
-- sh to the branch: git push origin my-branch.
-- eate a pull request.
+- Push to the branch: git push origin my-branch.
+- Create a pull request.
